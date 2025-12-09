@@ -13,7 +13,7 @@ const rules = [
     icon: <UtensilsCrossed className="h-5 w-5" />,
     title: "Dine-in & take-out",
     body: "For restaurants, cafes, take-out/delivery meals. Not for retail-only counters (e.g., whole cakes/pasalubong shops).",
-    tag: "Food establishments only",
+    tag: "Only food",
   },
   {
     icon: <ReceiptText className="h-5 w-5" />,

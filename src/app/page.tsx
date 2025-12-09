@@ -141,6 +141,17 @@ export default function Page() {
             </div>
           </div>
         </footer>
+        <div className="mt-4 text-center text-sm text-muted-foreground">
+          <p>
+            Contact me:{" "}
+            <a
+              className="font-semibold text-foreground underline"
+              href="mailto:programmingrio@gmail.com"
+            >
+              programmingrio@gmail.com
+            </a>
+          </p>
+        </div>
       </div>
     </main>
   );
